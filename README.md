@@ -1,16 +1,13 @@
-## Hi there 👋
+### Merhaba, Ben [Muhammed Metin Kızıl] 👋
 
-<!--
-**MetinKizil/MetinKizil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vize ödevi kapsamında hazırladığım algoritma ve Java çözümleri videoma aşağıdaki linkten ulaşabilirsiniz:
 
-Here are some ideas to get you started:
+📺 **Ödev Çözüm Videosu:** https://youtu.be/ftjo9FmEfGo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Çözdüğüm Sorular:
+1. Asal Sayı Bulma
+2. Palindrom Kelime Kontrolü
+3. Dizideki En Büyük/Küçük Sayı
+4. Faktöriyel Hesaplama
+5. Sayı Tahmin Oyunu
